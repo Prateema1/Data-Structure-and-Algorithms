@@ -81,7 +81,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.Binary2">
+    <configuration name="Binary2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pratima.Binary2" />
+      <module name="Java Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pratima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pratima.BinarySearch" />
       <module name="Java Projects" />
@@ -120,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Binary2" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Fibo" />
       </list>

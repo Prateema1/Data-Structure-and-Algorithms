@@ -81,20 +81,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MissingNumber">
-    <configuration name="MinInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pratima.MinInArray" />
-      <module name="Java Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pratima.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PalindromeOrNot">
     <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pratima.MissingNumber" />
       <module name="Java Projects" />
@@ -110,6 +97,19 @@
     </configuration>
     <configuration name="MoveAllZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pratima.MoveAllZeros" />
+      <module name="Java Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pratima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pratima.PalindromeOrNot" />
       <module name="Java Projects" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeOrNot" />
         <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.ResizeArray" />
         <item itemvalue="Application.MoveAllZeros" />
         <item itemvalue="Application.SecondMaxInArray" />
-        <item itemvalue="Application.MinInArray" />
       </list>
     </recent_temporary>
   </component>
